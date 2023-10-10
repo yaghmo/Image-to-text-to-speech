@@ -1,0 +1,9 @@
+# Usage: pip install -r requirements.txt
+# NOTE: high chances that a library might be forgotten to be listed down here, we appoligize for this inconvenience
+# python 3.9 - 3.10
+
+opencv-python>=4.5.3
+numpy>=1.21.2
+matplotlib>=3.4.3
+pandas>=1.3.3
+scipy>=1.7.3
